@@ -1,4 +1,5 @@
-# telixia-springboot
+# telixia-springboot [![Build Status](https://travis-ci.com/Nditah/telixia-springboot.svg?branch=master)](https://travis-ci.com/Nditah/telixia-springboot)
+
 RESTful API for CRUD operations, developed with Spring Boot in Java.
 
 ## Function
@@ -44,11 +45,6 @@ Access http://localhost:8080/api/products in web browser or PostMan, you should 
 ]
 ```
 
-## Deploy to Heroku
-
-Follow tutorial [Deploying Spring Boot RESTful API to Heroku](https://Nditah.github.io/tutorial/restful/deploying-spring-boot-restful-api-to-heroku/) to deploy this Spring Boot app to [Heroku](https://www.heroku.com/).
-
-Follow tutorial [Continuously Deploy Spring Boot App to Heroku with Travis-CI](https://Nditah.github.io/tutorial/restful/continuously-deploy-spring-boot-app-to-heroku-with-travis-ci/) to continuously deploy this Spring Boot app to [Heroku](https://www.heroku.com/) with [Travis-CI](https://travis-ci.com/).
 
 The available RESTful API on Heroku is
 * baseURL: https://telixia-springboot.herokuapp.com/
