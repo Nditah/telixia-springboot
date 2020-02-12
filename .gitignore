@@ -1,0 +1,10 @@
+/.metadata/
+/.recommenders/
+/out/
+/public/
+
+.settings/
+.idea/
+*.iml
+*.class
+target/
